@@ -549,7 +549,7 @@ footer{
         - add the puppy-photo as a repeating background to the container
 */
 #bg-img-3{
-    background: var(--lt-blue) center no-repeat url("images/puppy-photo.jpg");
+    background: var(--lt-blue) center repeat url("images/puppy-photo.jpg");
     
 }
 
